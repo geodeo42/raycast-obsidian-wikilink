@@ -1,8 +1,8 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "obsidian-wikilink",
-  "title": "Obsidian Wikilink",
-  "description": "Search vault notes and paste as [[wikilink]]",
+  "title": "Obsidian WikiLinker",
+  "description": "Fuzzy-search your Obsidian vault and paste [[wikilinks]] into any app",
   "version": "1.0.0",
   "icon": "command-icon.png",
   "author": "geodeo42",

@@ -14,7 +14,10 @@ declare type Preferences = ExtensionPreferences
 
 declare namespace Preferences {
   /** Preferences accessible in the `search-notes` command */
-  export type SearchNotes = ExtensionPreferences & {}
+  export type SearchNotes = ExtensionPreferences & {
+  /** Vault Path - Absolute path to your Obsidian vault folder */
+  "vaultPath": string
+}
 }
 
 declare namespace Arguments {
