@@ -3,6 +3,7 @@
   "name": "obsidian-wikilink",
   "title": "Obsidian Wikilink",
   "description": "Search vault notes and paste as [[wikilink]]",
+  "version": "1.0.0",
   "icon": "command-icon.png",
   "author": "geodeo42",
   "categories": [
